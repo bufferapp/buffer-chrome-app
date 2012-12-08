@@ -1,8 +1,8 @@
 {
-	"name": "Buffer Manager",
-	"version": "1.0.2",
+	"name": "Buffer",
+	"version": "1.0.3",
 	"manifest_version": 2,
-	"description": "The Buffer Manager is a companion to the chrome extension that lets you easily organise and manage your Buffer account.",
+	"description": "Buffer is your easier way to share. Manage and organise your timeline, see detailed analytics and quickly create new posts.",
 	"icons": { 
 		"16": "icons/icon16.png",
 		"48": "icons/icon48.png",
